@@ -1,0 +1,19 @@
+[
+    {
+        "text": "Home",
+        "link": "/"
+    },
+    {
+        "text": "About",
+        "link": "/about"
+    },
+    {
+        "text": "Topics",
+        "link": "/topics"
+    },
+    {
+        "text": "Server Side Page",
+        "link": "/serverSidePage",
+        "serverSide": true
+    }
+]

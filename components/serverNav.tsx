@@ -1,3 +1,7 @@
+/**
+ * Navigation for server pages
+ */
+
 import Link from 'next/link';
 import navigation from '../data/nav.json'
 

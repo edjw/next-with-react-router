@@ -1,3 +1,7 @@
+/**
+ * Navigation for client pages
+ */
+
 import NextLink from 'next/link';
 import { Link } from 'react-router-dom';
 
